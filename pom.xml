@@ -10,7 +10,7 @@
     <relativePath /> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.github.djroush.demo</groupId>
-  <artifactId>backend</artifactId>
+  <artifactId>backend-java</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>backend-demo</name>
   <description>Demo backend project for Spring Boot</description>
